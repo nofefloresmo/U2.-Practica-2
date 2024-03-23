@@ -1,0 +1,182 @@
+[
+    {
+        "name": "Back to the Future",
+        "director": "Robert Zemeckis",
+        "year": 1985,
+        "genre": "Adventure, Comedy, Sci-Fi",
+        "description": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
+        "movie_poster_path": "BTTF.jpg",
+        "movie_banner_path": "BTTF.png"
+    },
+    {
+        "name": "The Lost Boys",
+        "director": "Joel Schumacher",
+        "year": 1987,
+        "genre": "Comedy, Horror",
+        "description": "After moving to a new town, two brothers discover that the area is a haven for vampires.",
+        "movie_poster_path": "TLB.jpg",
+        "movie_banner_path": "TLB.jpg"
+    },
+    {
+        "name": "E.T. the Extra-Terrestrial",
+        "director": "Steven Spielberg",
+        "year": 1982,
+        "genre": "Family, Sci-Fi",
+        "description": "A troubled child summons the courage to help a friendly alien escape Earth and return to his home world.",
+        "movie_poster_path": "ET.jpg",
+        "movie_banner_path": "ET.png"
+    },
+    {
+        "name": "Ghostbusters",
+        "director": "Ivan Reitman",
+        "year": 1984,
+        "genre": "Action, Comedy, Fantasy",
+        "description": "Three parapsychologists forced out of their university funding set up shop as a unique ghost removal service in New York City, attracting frightened yet skeptical customers.",
+        "movie_poster_path": "GB.jpg",
+        "movie_banner_path": "GB.jpg"
+    },
+    {
+        "name": "Ferris Bueller's Day Off",
+        "director": "John Hughes",
+        "year": 1986,
+        "genre": "Comedy",
+        "description": "A high school wise guy is determined to have a day off from school, despite what the Principal thinks of that.",
+        "movie_poster_path": "FBDO.jpg",
+        "movie_banner_path": "FBDO.jpg"
+    },
+    {
+        "name": "Blade Runner",
+        "director": "Ridley Scott",
+        "year": 1982,
+        "genre": "Action, Drama, Sci-Fi",
+        "description": "A blade runner must pursue and terminate four replicants who stole a ship in space and have returned to Earth to find their creator.",
+        "movie_poster_path": "BR.jpg",
+        "movie_banner_path": "BR.jpg"
+    },
+    {
+        "name": "The Terminator",
+        "director": "James Cameron",
+        "year": 1984,
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation.",
+        "movie_poster_path": "TT.jpg",
+        "movie_banner_path": "TT.png"
+    },
+    {
+        "name": "Die Hard",
+        "director": "John McTiernan",
+        "year": 1988,
+        "genre": "Action, Thriller",
+        "description": "A New York City police officer tries to save his estranged wife and several others taken hostage by terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.",
+        "movie_poster_path": "DH.jpg",
+        "movie_banner_path": "DH.jpg"
+    },
+    {
+        "name": "Top Gun",
+        "director": "Tony Scott",
+        "year": 1986,
+        "genre": "Action, Drama",
+        "description": "As students at the United States Navy's elite fighter weapons school compete to be best in the class, one daring young pilot learns a few things from a civilian instructor that are not taught in the classroom.",
+        "movie_poster_path": "TG.png",
+        "movie_banner_path": "TG.jpg"
+    },
+    {
+        "name": "The Princess Bride",
+        "director": "Rob Reiner",
+        "year": 1987,
+        "genre": "Adventure, Comedy, Family",
+        "description": "A bedridden boy's grandfather reads him the story of a farmboy-turned-pirate who encounters numerous obstacles, enemies, and allies in his quest to be reunited with his true love.",
+        "movie_poster_path": "TPB.jpg",
+        "movie_banner_path": "TPB.png"
+    },
+    {
+        "name": "Beetlejuice",
+        "director": "Tim Burton",
+        "year": 1988,
+        "genre": "Comedy, Fantasy",
+        "description": "The spirits of a deceased couple are harassed by an unbearable family that has moved into their home, and hire a malicious spirit to drive them out.",
+        "movie_poster_path": "BJ.jpg",
+        "movie_banner_path": "BJ.png"
+    },
+    {
+        "name": "Indiana Jones Raiders of the Lost Ark",
+        "director": "Steven Spielberg",
+        "year": 1981,
+        "genre": "Action, Adventure",
+        "description": "In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis can obtain its awesome powers.",
+        "movie_poster_path": "ROTLA.jpg",
+        "movie_banner_path": "ROTLA.jpg"
+    },
+    {
+        "name": "Indiana Jones and the Last Crusade",
+        "director": "Steven Spielberg",
+        "year": 1989,
+        "genre": "Action, Adventure",
+        "description": "In 1938, after his father goes missing while pursuing the Holy Grail, Indiana Jones finds himself up against the Nazis again to stop them from obtaining its powers.",
+        "movie_poster_path": "TLC.jpg",
+        "movie_banner_path": "TLC.jpg"
+    },
+    {
+        "name": "A Nightmare on Elm Street",
+        "director": "Wes Craven",
+        "year": 1984,
+        "genre": "Horror",
+        "description": "Teenager Nancy Thompson must uncover the dark truth concealed by her parents after she and her friends become targets of the spirit of a serial killer with a bladed glove in their dreams, in which if they die, it kills them in real life.",
+        "movie_poster_path": "ANOES.jpg",
+        "movie_banner_path": "ANOES.jpg"
+    },
+    {
+        "name": "Aliens",
+        "director": "James Cameron",
+        "year": 1986,
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "Decades after surviving the Nostromo incident, Ellen Ripley is sent out to re-establish contact with a terraforming colony but finds herself battling the Alien Queen and her offspring.",
+        "movie_poster_path": "A.jpg",
+        "movie_banner_path": "A.jpg"
+    },
+    {
+        "name": "The Breakfast Club",
+        "director": "John Hughes",
+        "year": 1985,
+        "genre": "Comedy, Drama",
+        "description": "Five high school students meet in Saturday detention and discover how they have a lot more in common than they thought.",
+        "movie_poster_path": "TBC.jpg",
+        "movie_banner_path": "TBC.jpg"
+    },
+    {
+        "name": "Scarface",
+        "director": "Brian De Palma",
+        "year": 1983,
+        "genre": "Crime, Drama",
+        "description": "In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.",
+        "movie_poster_path": "SF.jpg",
+        "movie_banner_path": "SF.jpg"
+    },
+    {
+        "name": "Labyrinth",
+        "director": "Jim Henson",
+        "year": 1986,
+        "genre": "Adventure, Family, Fantasy",
+        "description": "A 16-year-old girl is given 13 hours to solve a labyrinth and rescue her baby brother when her wish for him to be taken away is granted by the Goblin King.",
+        "movie_poster_path": "L.jpg",
+        "movie_banner_path": "L.jpg"
+    },
+    {
+        "name": "The Goonies",
+        "director": "Richard Donner",
+        "year": 1985,
+        "genre": "Adventure, Comedy, Family",
+        "description": "A group of young misfits called The Goonies discover an ancient map and set out on an adventure to find a legendary pirate's long-lost treasure.",
+        "movie_poster_path": "TGO.jpg",
+        "movie_banner_path": "TGO.jpg"
+    },
+    {
+        "name": "Dirty Dancing",
+        "director": "Emile Ardolino",
+        "year": 1987,
+        "genre": "Drama, Music, Romance",
+        "description": "Spending the summer at a Catskills resort with her family, Frances \"Baby\" Houseman falls in love with the camp's dance instructor, Johnny Castle.",
+        "movie_poster_path": "DD.jpg",
+        "movie_banner_path": "DD.jpg"
+    }
+]
